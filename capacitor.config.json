@@ -1,0 +1,7 @@
+{
+  "appId": "com.yawmi.app",
+  "appName": "يومي",
+  "webDir": "www",
+  "backgroundColor": "#0b1113",
+  "android": { "allowMixedContent": false }
+}
